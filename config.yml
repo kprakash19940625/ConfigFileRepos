@@ -9,3 +9,4 @@ PreProdEnv:
 ProdEnv:
         percentage:
                 100 ## The percentage of test cases to be passed at Prod Env.
+
